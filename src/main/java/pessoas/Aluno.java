@@ -1,4 +1,4 @@
-package Pessoas;
+package pessoas;
 
 import javax.swing.JOptionPane;
 

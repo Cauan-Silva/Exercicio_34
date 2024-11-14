@@ -1,7 +1,7 @@
-package Principal;
+package principal;
 
-import Pessoas.Aluno;
-import Pessoas.Professor;
+import pessoas.Aluno;
+import pessoas.Professor;
 
 public class Principal {
     public static void main(String[] args) {
